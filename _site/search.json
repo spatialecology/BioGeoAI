@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This is a page about my research activities\n\nTest\n\n\nSpecies\nLon\nLat\n\n\n\n\nA\n1\n2.2\n\n\nB\n2\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BioGeoAI",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

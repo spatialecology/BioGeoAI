@@ -1,0 +1,13 @@
+---
+title: "Research"
+---
+
+This is a page about my research activities
+
+| Species | Lon | Lat |
+|---------|-----|-----|
+| A       | 1   | 2.2 |
+| B       | 2   | 3   |
+|         |     |     |
+
+: Test
