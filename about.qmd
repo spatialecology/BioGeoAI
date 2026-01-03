@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-About this site
+I am a postdoctoral researcher in the [Wildlife Ecology and Conservation Group](https://www.wur.nl/en/chair-groups/wildlife-ecology-and-conservation) at Wageningen University, and a visiting researcher in the Department of Biology at Utrecht University. As a quantitative ecologist, I integrate geospatial data science, computational methods, artificial intelligence, and ecological theory to quantify how global environmental change reshapes species distributions, community structure, and biotic interactions across space and time. By synthesizing biodiversity observations (e.g., camera traps, citizen-science records, and open databases) with environmental variables from Earth-observation satellites, land-use, and climate datasets, I contribute to building robust, forward-looking assessments of these ecological responses. I am also interested in evaluating the effectiveness of protected areas under global change and in developing solutions, such as aligning protected area management with reforestation, to enhance connectivity and support adaptive, resilient conservation planning.
 
-```{r}
-1 + 1
-```
+Currently, I am involved in the Biodiversa+ [**BIG PICTURE**](https://www.biodiversa.eu/2024/04/15/big_picture/) project, which is building a Europe-wide repository and AI-driven pipeline to harmonize millions of professional and citizen-science images for continental-scale assessments of wildlife status and trends. I contribute to several work packages on AI applications, characterization of multi-species community assemblages, and the development of analytical tools for biodiversity monitoring. Within this project, I recently developed the [**camtrapReport**](https://github.com/spatialecology/camtrapReport)R package, which provides a reproducible pipeline to rapidly generate interactive, publication-style reports with a comprehensive suite of ecological analyses and interactive visualizations. In short, it turns raw camera-trap data into structured ecological insights and efficiently facilitates reporting.
