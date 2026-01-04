@@ -11,7 +11,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "This is a page about my research activities\n\nTest\n\n\nSpecies\nLon\nLat\n\n\n\n\nA\n1\n2.2\n\n\nB\n2\n3\n\n\nD\n33\n12\n\n\n\ndsaadfsadf"
+    "text": "This is a page about my research activities."
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "PUBLICATIONS.html",
     "title": "Publications",
     "section": "",
-    "text": "Refined gap analysis for biodiversity conservation under climate change\nSDM-based gap analysis is widely used to evaluate protected-area (PA) effectiveness under future climate scenarios, yet binary (0/1) thresholding can cause information loss and limits multi-species prioritization. We developed FuzzyGap, a fuzzy logic–based framework that couples machine-learning SDMs with multi-species groups, dispersal scenarios, and uncertainty assessment. By treating suitability and protection as continuous surfaces, FuzzyGap improves prioritization, supports realistic range-shift planning, and helps identify potential climate refugia.\n\nPaper | Video | Code"
+    "text": "SDM-based gap analysis is widely used to evaluate protected-area (PA) effectiveness under future climate scenarios, yet binary thresholding can cause information loss and limits multi-species prioritization. We developed FuzzyGap, a fuzzy logic–based framework that couples machine-learning SDMs with multi-species groups, dispersal scenarios, and uncertainty assessment. By treating suitability and protection as continuous surfaces, FuzzyGap improves prioritization, supports realistic range-shift planning, and helps identify potential climate refugia.\nPaper | Video | Code"
   },
   {
     "objectID": "PUBLICATIONS.html#refined-gap-analysis-for-biodiversity-conservation-under-climate-change",
