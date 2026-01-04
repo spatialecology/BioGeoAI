@@ -3,11 +3,3 @@ title: "BioGeoAI"
 ---
 
 # BiogeoAI Research Lab
-
-Elham Ebrahimi
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
