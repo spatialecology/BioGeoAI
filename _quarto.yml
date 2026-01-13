@@ -10,7 +10,7 @@ website:
       - about.qmd
       - research.qmd
       - PUBLICATIONS.qmd
-
+      - Students.qmd
 format:
   html:
     theme: cosmo
