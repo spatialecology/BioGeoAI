@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "BioGeoAI Lab"
@@ -7,10 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - research.qmd
-      - PUBLICATIONS.qmd
-      - Students.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: PUBLICATIONS.qmd
+        text: Publications
+      - href: students.qmd
+        text: Students
+
 format:
   html:
     theme: cosmo
@@ -18,4 +24,3 @@ format:
     toc: true
 
 editor: visual
-
