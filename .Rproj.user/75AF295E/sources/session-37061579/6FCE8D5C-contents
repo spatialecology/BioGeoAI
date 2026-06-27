@@ -1,6 +1,0 @@
-git config --global user.name "Elham Ebrahimi"
-git config --global user.email eebrahimi.bio@gmail.com
-
-After doing this, you may fix the identity used for this commit with:
-  
-  git commit --amend --reset-author
