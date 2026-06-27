@@ -1,5 +1,3 @@
 ---
 title: "Research"
 ---
-
-This is a page about my research activities.

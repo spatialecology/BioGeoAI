@@ -1,44 +1,9 @@
 [
   {
-    "objectID": "students.html",
-    "href": "students.html",
-    "title": "Students",
-    "section": "",
-    "text": "So far, I have supervised several BSc and MSc students. Below is a list of current and past student projects."
-  },
-  {
-    "objectID": "students.html#current-students",
-    "href": "students.html#current-students",
-    "title": "Students",
-    "section": "Current students",
-    "text": "Current students\nDetails will be added soon."
-  },
-  {
-    "objectID": "PUBLICATIONS.html",
-    "href": "PUBLICATIONS.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Refined gap analysis for biodiversity conservation under climate change\nSDM-based gap analysis is widely used to evaluate protected-area (PA) effectiveness under future climate scenarios, yet binary thresholding can cause information loss and limits multi-species prioritization. We developed FuzzyGap, a fuzzy logic–based framework that couples machine-learning SDMs with multi-species groups, dispersal scenarios, and uncertainty assessment. By treating suitability and protection as continuous surfaces, FuzzyGap improves prioritization, supports realistic range-shift planning, and helps identify potential climate refugia.\nPaper | Video | Code"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
     "section": "",
     "text": "I am a postdoctoral researcher in the Wildlife Ecology and Conservation Group at Wageningen University, and a visiting researcher in the Department of Biology at Utrecht University. As a quantitative ecologist, I integrate geospatial data science, computational methods, artificial intelligence, and ecological theory to quantify how global environmental change reshapes species distributions, community structure, and biotic interactions across space and time. By synthesizing biodiversity observations (e.g., camera traps, citizen-science records, and open databases) with environmental variables from Earth-observation satellites, land-use, and climate datasets, I contribute to building robust, forward-looking assessments of these ecological responses. I am also interested in evaluating the effectiveness of protected areas under global change and in developing solutions, such as aligning protected area management with reforestation, to enhance connectivity and support adaptive, resilient conservation planning.\nCurrently, I am involved in the Biodiversa+ BIG PICTURE project, which is building a Europe-wide repository and AI-driven pipeline to harmonize millions of professional and citizen-science images for continental-scale assessments of wildlife status and trends. I contribute to several work packages on AI applications, characterization of multi-species community assemblages, and the development of analytical tools for biodiversity monitoring. Within this project, I recently developed the camtrapReportR package, which provides a reproducible pipeline to rapidly generate interactive, publication-style reports with a comprehensive suite of ecological analyses and interactive visualizations. In short, it turns raw camera-trap data into structured ecological insights and efficiently facilitates reporting."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BioGeoAI",
-    "section": "",
-    "text": "BiogeoAI"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This is a page about my research activities."
   }
 ]

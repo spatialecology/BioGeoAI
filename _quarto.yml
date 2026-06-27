@@ -13,10 +13,25 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: PUBLICATIONS.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: posts.qmd
+        text: Posts
+      - href: publications.qmd
         text: Publications
       - href: students.qmd
         text: Students
+      - href: gallery.qmd
+        text: Gallery
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/spatialecology
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=Ae2Kd3MAAAAJ
+      - icon: envelope
+        href: contact.qmd
 
 format:
   html:
