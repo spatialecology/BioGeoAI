@@ -25,7 +25,7 @@ text: Students
 - href: gallery.qmd
 text: Gallery
 
-```
+
 right:
   - icon: github
     href: https://github.com/spatialecology
@@ -44,7 +44,7 @@ right:
     aria-label: LinkedIn
 
   - text: RG
-    href: YOUR_RESEARCHGATE_LINK_HERE
+    href: https://www.researchgate.net/profile/Elham-Ebrahimi-6?ev=hdr_xprf
     aria-label: ResearchGate
 
   - text: Bluesky
@@ -58,7 +58,6 @@ right:
   - icon: envelope
     href: contact.qmd
     aria-label: Contact
-```
 
 format:
 html:
