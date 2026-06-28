@@ -2,11 +2,75 @@
 title: "Contact"
 ---
 
-Email: eebrahimi.bio@gmail.com
-Webpage: https://www.wur.nl/en/persons/elham-ebrahimi.htm
-ORCID: https://orcid.org/0000-0001-5191-9832
-Google Scholar: https://scholar.google.com/citations?user=Ae2Kd3MAAAAJ&hl=en&authuser=2
-x: @e_ebrahimi
-Linkdin: in/elham-ebrahimi-90b519b8
-BlueSky: @elhamebrahimi.bsky.social
+<div class="contact-page">
+
+<div class="contact-sidebar">
+
+<img src="images/elham.png" class="contact-photo" alt="Elham Ebrahimi">
+
+<div class="contact-info">
+
+<h2>Dr. Elham Ebrahimi</h2>
+
+<p class="contact-subtitle">BioGeoAI Lab</p>
+
+<p><i class="bi bi-envelope-fill"></i> <a href="mailto:eebrahimi.bio@gmail.com">eebrahimi.bio@gmail.com</a></p>
+
+<p><i class="bi bi-building"></i> <a href="https://www.wur.nl/en/persons/elham-ebrahimi.htm" target="_blank">WUR profile</a></p>
+
+<p><i class="bi bi-person-badge"></i> <a href="https://orcid.org/0000-0001-5191-9832" target="_blank">ORCID</a></p>
+
+<p><i class="bi bi-mortarboard-fill"></i> <a href="https://scholar.google.com/citations?user=Ae2Kd3MAAAAJ&hl=en&authuser=2" target="_blank">Google Scholar</a></p>
+
+<p><i class="bi bi-github"></i> <a href="https://github.com/spatialecology" target="_blank">GitHub</a></p>
+
+<p><i class="bi bi-twitter-x"></i> <a href="https://x.com/e_ebrahimi" target="_blank">@e_ebrahimi</a></p>
+
+<p><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/elham-ebrahimi-90b519b8/" target="_blank">LinkedIn</a></p>
+
+<p><i class="bi bi-cloud-fill"></i> <a href="https://bsky.app/profile/elhamebrahimi.bsky.social" target="_blank">Bluesky</a></p>
+
+</div>
+
+</div>
+
+<div class="contact-form-area">
+
+<h1>Contact</h1>
+
+<p class="contact-intro">
+I am happy to connect about biodiversity monitoring, AI-assisted ecological workflows, species distribution modelling, camera-trap analytics, geospatial data science, and conservation decision-making.
+</p>
+
+<form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+
+<label for="name">Name *</label> <input type="text" id="name" name="name" required>
+
+<label for="email">Email *</label> <input type="email" id="email" name="email" required>
+
+<label for="subject">Subject</label> <input type="text" id="subject" name="subject">
+
+<label for="message">Message *</label>
+
+<textarea id="message" name="message" rows="7" required placeholder="Write your message here..."></textarea>
+
+<label class="consent">
+<input type="checkbox" required>
+<span>I agree that my details may be used to respond to this message.</span>
+</label>
+
+<button type="submit">Send message</button>
+
+</form>
+
+<p class="form-note">
+You can also email me directly at <a href="mailto:eebrahimi.bio@gmail.com">eebrahimi.bio@gmail.com</a>.
+</p>
+
+</div>
+
+</div>
+
 ---
+
+## 
