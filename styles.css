@@ -350,7 +350,7 @@ button.photo-slot:hover::after,
 }
 
 /* ---------------------------------------------------------
-   RESEARCH — TITLE ABOVE EACH RECTANGLE
+   RESEARCH â€” TITLE ABOVE EACH RECTANGLE
    --------------------------------------------------------- */
 
 .research-showcase {
@@ -465,7 +465,7 @@ button.photo-slot:hover::after,
 }
 
 /* ---------------------------------------------------------
-   SUPERVISION — SQUARE LISTED CARDS
+   SUPERVISION â€” SQUARE LISTED CARDS
    --------------------------------------------------------- */
 
 .supervision-page {
@@ -515,7 +515,7 @@ button.photo-slot:hover::after,
 }
 
 /* ---------------------------------------------------------
-   GALLERY — OFFSET FEATURE + 3-COLUMN SQUARE GRID
+   GALLERY â€” OFFSET FEATURE + 3-COLUMN SQUARE GRID
    --------------------------------------------------------- */
 
 .gallery-page {
@@ -1046,4 +1046,23 @@ button.photo-slot:hover::after,
     opacity: 1 !important;
     transform: none !important;
   }
+}
+
+.supervision-page .section-heading {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 86px 0 26px;
+  border-bottom: 0;
+}
+
+.supervision-page .section-heading h1 {
+  flex: 0 0 auto;
+}
+
+.supervision-page .section-heading::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 1px;
+  background: var(--line);
 }
