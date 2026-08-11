@@ -350,7 +350,7 @@ button.photo-slot:hover::after,
 }
 
 /* ---------------------------------------------------------
-   RESEARCH â€” TITLE ABOVE EACH RECTANGLE
+   RESEARCH Ã¢â‚¬â€ TITLE ABOVE EACH RECTANGLE
    --------------------------------------------------------- */
 
 .research-showcase {
@@ -465,7 +465,7 @@ button.photo-slot:hover::after,
 }
 
 /* ---------------------------------------------------------
-   SUPERVISION â€” SQUARE LISTED CARDS
+   SUPERVISION Ã¢â‚¬â€ SQUARE LISTED CARDS
    --------------------------------------------------------- */
 
 .supervision-page {
@@ -515,7 +515,7 @@ button.photo-slot:hover::after,
 }
 
 /* ---------------------------------------------------------
-   GALLERY â€” OFFSET FEATURE + 3-COLUMN SQUARE GRID
+   GALLERY Ã¢â‚¬â€ OFFSET FEATURE + 3-COLUMN SQUARE GRID
    --------------------------------------------------------- */
 
 .gallery-page {
@@ -1066,3 +1066,53 @@ button.photo-slot:hover::after,
   height: 1px;
   background: var(--line);
 }
+
+/* BIOGEOAI CLEAN HEADINGS START */
+
+/* Never display decorative section numbers */
+.section-number,
+.research-number {
+  display: none !important;
+}
+
+/* Standard page headings: Title ---------------- */
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 86px 0 26px;
+  border-bottom: 0 !important;
+}
+
+.section-heading h1 {
+  flex: 0 0 auto;
+  margin: 0;
+}
+
+.section-heading::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 1px;
+  background: var(--line);
+}
+
+/* Research headings: Research themes ---------------- */
+.research-caption {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.research-caption h2 {
+  flex: 0 0 auto;
+  margin: 0;
+}
+
+.research-caption::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 1px;
+  background: var(--line);
+}
+
+/* BIOGEOAI CLEAN HEADINGS END */

@@ -8,8 +8,7 @@ toc: false
 <div class="page-frame publications-page">
 
   <div class="section-heading" data-reveal>
-    <span class="section-number">01</span>
-    <h1>Publications</h1>
+<h1>Publications</h1>
   </div>
 
   <section class="publication-list">
@@ -21,7 +20,7 @@ toc: false
         <span></span>
         <span class="w60"></span>
       </div>
-      <span class="row-arrow" aria-hidden="true">↗</span>
+      <span class="row-arrow" aria-hidden="true">â†—</span>
     </article>
 
     <article class="publication-row" data-reveal>
@@ -31,7 +30,7 @@ toc: false
         <span></span>
         <span class="w70"></span>
       </div>
-      <span class="row-arrow" aria-hidden="true">↗</span>
+      <span class="row-arrow" aria-hidden="true">â†—</span>
     </article>
 
     <article class="publication-row" data-reveal>
@@ -41,7 +40,7 @@ toc: false
         <span></span>
         <span class="w55"></span>
       </div>
-      <span class="row-arrow" aria-hidden="true">↗</span>
+      <span class="row-arrow" aria-hidden="true">â†—</span>
     </article>
 
     <article class="publication-row" data-reveal>
@@ -51,7 +50,7 @@ toc: false
         <span></span>
         <span class="w65"></span>
       </div>
-      <span class="row-arrow" aria-hidden="true">↗</span>
+      <span class="row-arrow" aria-hidden="true">â†—</span>
     </article>
 
   </section>
