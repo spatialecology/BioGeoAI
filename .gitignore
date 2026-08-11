@@ -11,4 +11,3 @@ _cleanup_backup_*/
 _content_backup/
 _quarto_backup.yml
 research_backup.qmd
-_site/
