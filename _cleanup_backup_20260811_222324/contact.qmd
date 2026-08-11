@@ -1,0 +1,45 @@
+---
+title: "Contact"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<section class="contact-shell page-frame">
+
+  <div class="contact-identity" data-reveal>
+    <div class="contact-portrait photo-slot" role="img" aria-label="Portrait image placeholder"></div>
+
+    <div class="contact-lines">
+      <span class="contact-name-line"></span>
+      <span class="w55"></span>
+      <span class="w70"></span>
+    </div>
+  </div>
+
+  <div class="contact-panel" data-reveal>
+    <div class="page-kicker">Contact</div>
+    <div class="skeleton-heading wide"></div>
+
+    <form class="contact-form-template" onsubmit="return false;">
+      <label>
+        <span>Name</span>
+        <input type="text" autocomplete="name">
+      </label>
+
+      <label>
+        <span>Email</span>
+        <input type="email" autocomplete="email">
+      </label>
+
+      <label class="full">
+        <span>Message</span>
+        <textarea rows="7"></textarea>
+      </label>
+
+      <button type="submit" aria-label="Submit form"><span>↗</span></button>
+    </form>
+  </div>
+
+</section>
+```

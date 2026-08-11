@@ -1,0 +1,68 @@
+project:
+type: website
+output-dir: _site
+
+website:
+title: "BioGeoAI"
+site-url: "https://biogeoai.com"
+
+navbar:
+left:
+- href: index.qmd
+text: Home
+- href: about.qmd
+text: About
+- href: research.qmd
+text: Research
+- href: projects.qmd
+text: Projects
+- href: posts.qmd
+text: Posts
+- href: publications.qmd
+text: Publications
+- href: students.qmd
+text: Students
+- href: gallery.qmd
+text: Gallery
+
+
+right:
+  - icon: github
+    href: https://github.com/spatialecology
+    aria-label: GitHub
+
+  - icon: mortarboard
+    href: https://scholar.google.com/citations?user=Ae2Kd3MAAAAJ
+    aria-label: Google Scholar
+
+  - text: ORCID
+    href: https://orcid.org/0000-0001-5191-9832
+    aria-label: ORCID
+
+  - icon: linkedin
+    href: https://www.linkedin.com/in/elham-ebrahimi-90b519b8/
+    aria-label: LinkedIn
+
+  - text: RG
+    href: https://www.researchgate.net/profile/Elham-Ebrahimi-6?ev=hdr_xprf
+    aria-label: ResearchGate
+
+  - text: Bluesky
+    href: https://bsky.app/profile/elhamebrahimi.bsky.social
+    aria-label: Bluesky
+
+  - icon: twitter-x
+    href: https://x.com/e_ebrahimi
+    aria-label: X
+
+  - icon: envelope
+    href: contact.qmd
+    aria-label: Contact
+
+format:
+html:
+theme: cosmo
+css: styles.css
+toc: true
+
+editor: visual
