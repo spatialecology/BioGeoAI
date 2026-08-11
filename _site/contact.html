@@ -179,81 +179,39 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="contact-page">
-<div class="contact-visual-panel">
-<pre><code>&lt;div
-  class="contact-visual-rectangle"
-  role="img"
-  aria-label="Contact page visual"&gt;
-&lt;/div&gt;</code></pre>
-</div>
-<div class="contact-form-panel">
-<pre><code>&lt;div class="contact-kicker"&gt;CONTACT&lt;/div&gt;
+  <div class="contact-visual-panel">
+    <div class="contact-visual-rectangle" role="img" aria-label="Contact visual"></div>
+  </div>
 
-&lt;form
-  action="https://formsubmit.co/eebrahimi.bio@gmail.com"
-  method="POST"
-  class="contact-form"&gt;
+  <div class="contact-form-panel">
+    <div class="contact-kicker">CONTACT</div>
 
-  &lt;input
-    type="hidden"
-    name="_subject"
-    value="New message from BioGeoAI website"&gt;
+    <form action="https://formsubmit.co/eebrahimi.bio@gmail.com" method="POST" class="contact-form">
+      <input type="hidden" name="_subject" value="New message from BioGeoAI website">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_template" value="table">
+      <input type="text" name="_honey" style="display:none">
 
-  &lt;input
-    type="hidden"
-    name="_captcha"
-    value="false"&gt;
+      <div class="contact-grid">
+        <div class="field-group">
+          <label for="name">NAME</label>
+          <input type="text" id="name" name="name" autocomplete="name" required="">
+        </div>
 
-  &lt;input
-    type="hidden"
-    name="_template"
-    value="table"&gt;
+        <div class="field-group">
+          <label for="email">EMAIL</label>
+          <input type="email" id="email" name="email" autocomplete="email" required="">
+        </div>
+      </div>
 
-  &lt;div class="contact-grid"&gt;
+      <div class="field-group message-group">
+        <label for="message">MESSAGE</label>
+        <textarea id="message" name="message" rows="8" required=""></textarea>
+      </div>
 
-    &lt;div class="field-group"&gt;
-      &lt;label for="name"&gt;NAME&lt;/label&gt;
-      &lt;input
-        type="text"
-        id="name"
-        name="name"
-        autocomplete="name"
-        required&gt;
-    &lt;/div&gt;
-
-    &lt;div class="field-group"&gt;
-      &lt;label for="email"&gt;EMAIL&lt;/label&gt;
-      &lt;input
-        type="email"
-        id="email"
-        name="email"
-        autocomplete="email"
-        required&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-  &lt;div class="field-group message-group"&gt;
-
-    &lt;label for="message"&gt;MESSAGE&lt;/label&gt;
-
-    &lt;textarea
-      id="message"
-      name="message"
-      rows="8"
-      required&gt;&lt;/textarea&gt;
-
-  &lt;/div&gt;
-
-  &lt;button
-    type="submit"
-    class="contact-submit"
-    aria-label="Send message"&gt;
-    ↗
-  &lt;/button&gt;
-
-&lt;/form&gt;</code></pre>
-</div>
+      <button type="submit" class="contact-submit" aria-label="Send message">↗</button>
+    </form>
+  </div>
 </div>
 
 

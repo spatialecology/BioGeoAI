@@ -6,84 +6,38 @@ toc: false
 
 ```{=html}
 <div class="contact-page">
-
   <div class="contact-visual-panel">
-    <div
-      class="contact-visual-rectangle"
-      role="img"
-      aria-label="Contact page visual">
-    </div>
+    <div class="contact-visual-rectangle" role="img" aria-label="Contact visual"></div>
   </div>
 
   <div class="contact-form-panel">
-
     <div class="contact-kicker">CONTACT</div>
 
-    <form
-      action="https://formsubmit.co/eebrahimi.bio@gmail.com"
-      method="POST"
-      class="contact-form">
-
-      <input
-        type="hidden"
-        name="_subject"
-        value="New message from BioGeoAI website">
-
-      <input
-        type="hidden"
-        name="_captcha"
-        value="false">
-
-      <input
-        type="hidden"
-        name="_template"
-        value="table">
+    <form action="https://formsubmit.co/eebrahimi.bio@gmail.com" method="POST" class="contact-form">
+      <input type="hidden" name="_subject" value="New message from BioGeoAI website">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_template" value="table">
+      <input type="text" name="_honey" style="display:none">
 
       <div class="contact-grid">
-
         <div class="field-group">
           <label for="name">NAME</label>
-          <input
-            type="text"
-            id="name"
-            name="name"
-            autocomplete="name"
-            required>
+          <input type="text" id="name" name="name" autocomplete="name" required>
         </div>
 
         <div class="field-group">
           <label for="email">EMAIL</label>
-          <input
-            type="email"
-            id="email"
-            name="email"
-            autocomplete="email"
-            required>
+          <input type="email" id="email" name="email" autocomplete="email" required>
         </div>
-
       </div>
 
       <div class="field-group message-group">
-
         <label for="message">MESSAGE</label>
-
-        <textarea
-          id="message"
-          name="message"
-          rows="8"
-          required></textarea>
-
+        <textarea id="message" name="message" rows="8" required></textarea>
       </div>
 
-      <button
-        type="submit"
-        class="contact-submit"
-        aria-label="Send message">
-        ↗
-      </button>
-
+      <button type="submit" class="contact-submit" aria-label="Send message">&#8599;</button>
     </form>
-
   </div>
-
 </div>
+```
