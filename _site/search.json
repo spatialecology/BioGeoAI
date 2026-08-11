@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "students.html",
-    "href": "students.html",
-    "title": "Supervision",
+    "objectID": "thanks.html",
+    "href": "thanks.html",
+    "title": "Thank you",
     "section": "",
-    "text": "Supervision"
+    "text": "MESSAGE SENT\n    \n\n    \n      Thank you.\n    \n\n    \n      Your message has been sent successfully. I will get back to you as soon as possible.\n    \n\n    \n      Return to BioGeoAI ↗"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Publications\n  \n\n  \n\n    \n      \n      \n        \n        \n        \n      \n      â†—\n    \n\n    \n      \n      \n        \n        \n        \n      \n      â†—\n    \n\n    \n      \n      \n        \n        \n        \n      \n      â†—\n    \n\n    \n      \n      \n        \n        \n        \n      \n      â†—"
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "×"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "CONTACT\n\n    \n      \n      \n      \n      \n\n      \n        \n          NAME\n          \n        \n\n        \n          EMAIL\n          \n        \n      \n\n      \n        MESSAGE\n        \n      \n\n      ↗"
+    "text": "Research themes\n    \n    \n  \n\n  \n    \nSelected projects\n    \n    \n  \n\n  \n    \nMethods & tools"
   },
   {
     "objectID": "index.html",
@@ -42,10 +21,38 @@
     "text": "↗\n    \n\n    \n      ↗\n    \n\n    \n      ↗"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Research themes\n    \n    \n  \n\n  \n    \nSelected projects\n    \n    \n  \n\n  \n    \nMethods & tools"
+    "text": "CONTACT\n\n    \n\n      \n      \n      \n      \n      \n      \n\n      \n        \n          NAME\n          \n        \n\n        \n          EMAIL\n          \n        \n      \n\n      \n        MESSAGE\n        \n      \n\n      ↗"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "×"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n  \n\n  \n\n    \n      \n      \n        \n        \n        \n      \n      â†—\n    \n\n    \n      \n      \n        \n        \n        \n      \n      â†—\n    \n\n    \n      \n      \n        \n        \n        \n      \n      â†—\n    \n\n    \n      \n      \n        \n        \n        \n      \n      â†—"
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Supervision",
+    "section": "",
+    "text": "Supervision"
   }
 ]

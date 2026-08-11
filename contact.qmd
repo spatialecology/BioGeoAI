@@ -13,10 +13,15 @@ toc: false
   <div class="contact-form-panel">
     <div class="contact-kicker">CONTACT</div>
 
-    <form action="https://formsubmit.co/eebrahimi.bio@gmail.com" method="POST" class="contact-form">
+    <form action="https://formsubmit.co/eebrahimi.bio@gmail.com"
+          method="POST"
+          class="contact-form">
+
       <input type="hidden" name="_subject" value="New message from BioGeoAI website">
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_url" value="https://biogeoai.com/contact.html">
+      <input type="hidden" name="_next" value="https://biogeoai.com/thanks.html">
       <input type="text" name="_honey" style="display:none">
 
       <div class="contact-grid">

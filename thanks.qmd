@@ -1,0 +1,65 @@
+---
+title: "Thank you"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div style="
+  width:min(900px, calc(100vw - 48px));
+  margin:0 auto;
+  min-height:72vh;
+  display:flex;
+  align-items:center;
+">
+  <div style="
+    width:100%;
+    padding:72px 0;
+    border-top:1px solid rgba(16,32,28,0.15);
+    border-bottom:1px solid rgba(16,32,28,0.15);
+  ">
+    <div style="
+      font-size:0.78rem;
+      font-weight:700;
+      letter-spacing:0.16em;
+      color:#737f78;
+      margin-bottom:24px;
+    ">
+      MESSAGE SENT
+    </div>
+
+    <h1 style="
+      margin:0 0 18px 0;
+      color:#10201c;
+      font-size:clamp(2.8rem,7vw,6rem);
+      font-weight:680;
+      letter-spacing:-0.045em;
+      line-height:0.98;
+    ">
+      Thank you.
+    </h1>
+
+    <p style="
+      max-width:650px;
+      margin:0 0 38px 0;
+      color:#405149;
+      font-size:1.15rem;
+      line-height:1.7;
+    ">
+      Your message has been sent successfully. I will get back to you as soon as possible.
+    </p>
+
+    <a href="https://biogeoai.com/"
+       style="
+         display:inline-block;
+         color:#10201c;
+         text-decoration:none;
+         font-weight:700;
+         border-bottom:1px solid #10201c;
+         padding-bottom:5px;
+       ">
+      Return to BioGeoAI &#8599;
+    </a>
+  </div>
+</div>
+```
